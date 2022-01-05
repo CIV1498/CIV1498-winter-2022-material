@@ -1,0 +1,7 @@
+pandas==1.0.4
+seaborn==0.10.1
+lxml==4.5.1
+xlrd==1.2.0
+descartes==1.1.0
+geopandas==0.6.1
+matplotlib==3.3.1
