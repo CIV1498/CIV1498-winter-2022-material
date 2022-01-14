@@ -171,10 +171,3 @@ ENV/
 # folders
 
 # files
-*.zip
-*.pptx
-project/project2/student_teams.xlsx
-yellow_tripdata_2016-01.csv
-submissions/
-grades/
-ta/
